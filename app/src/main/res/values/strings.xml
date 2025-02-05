@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaymentReceivedOrNot</string>
+    <string name="trigger_credit_notification">Check Credit</string>
+    <string name="trigger_debit_notification">Check Debit</string>
+    <string name="name_abdul_wahid">Hi 👋, Abdul Wahid</string>
+    <string name="image_description">image description</string>
+    <string name="recent_transaction">Check Recent Transaction</string>
+    <string name="check_balance">Check Current Balance</string>
+</resources>
